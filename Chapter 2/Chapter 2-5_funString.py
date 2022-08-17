@@ -12,29 +12,29 @@
 
 # class funString():
 
-    # def __init__(self,string = ""):
+#     def __init__(self,string = ""):
 
-        ### Enter Your Code Here ###
+#         ## Enter Your Code Here ###
 
-    # def __str__(self):
+#     def __str__(self):
 
-        ### Enter Your Code Here ###
+#         ## Enter Your Code Here ###
 
-    # def size(self) :
+#     def size(self) :
 
-        ### Enter Your Code Here ###
+#         ## Enter Your Code Here ###
 
-    # def changeSize(self):
+#     def changeSize(self):
 
-        ### Enter Your Code Here ###
+#         ## Enter Your Code Here ###
 
-    # def reverse(self):
+#     def reverse(self):
 
-        ### Enter Your Code Here ###
+#         ## Enter Your Code Here ###
 
-    # def deleteSame(self):
+#     def deleteSame(self):
 
-       ### Enter Your Code Here ###
+#        ## Enter Your Code Here ###
 
 
 

@@ -1,8 +1,8 @@
 # จงสร้างฟังก์ชัน weirdSubstract โดยรับ parameter n,k โดยมีเงื่อนไขคือ
 
-    # หาก n ลงท้ายด้วย 0 ให้ตัด 0 ตัวสุดท้ายทิ้ง 
+#     หาก n ลงท้ายด้วย 0 ให้ตัด 0 ตัวสุดท้ายทิ้ง 
 
-    # หากไม่ใช่ ให้ทำการลดค่า n ลง 1 ค่า
+#     หากไม่ใช่ ให้ทำการลดค่า n ลง 1 ค่า
 
 # โดยทำซ้ำทั้งหมด k รอบ
 
@@ -24,7 +24,7 @@
 
 # def weirdSubtract(n,k):
 
-	### Enter Your Code Here ###
+# 	## Enter Your Code Here ###
 
 # n,s = input("Enter num and sub : ").split()
 

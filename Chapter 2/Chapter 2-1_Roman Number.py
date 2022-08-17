@@ -2,7 +2,7 @@
 
 # M=1000    CM=900    D=500    CD=400,
 
-#C=100    XC=90    L=50    XL=40,
+# C=100    XC=90    L=50    XL=40,
 
 # X=10    IX=9    V=5    IV=4    I=1
 
@@ -14,13 +14,13 @@
 
 # class translator:
 
-    # def deciToRoman(self, num):
+#     def deciToRoman(self, num):
 
-        ### Enter Your Code Here ###
+#         ## Enter Your Code Here ###
 
-    # def romanToDeci(self, s):
+#     def romanToDeci(self, s):
 
-        ### Enter Your Code Here ###
+#         ## Enter Your Code Here ###
 
 # num = int(input("Enter number to translate : "))
 
