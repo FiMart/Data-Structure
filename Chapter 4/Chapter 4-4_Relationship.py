@@ -59,24 +59,24 @@ class Queue:
        def isFull(self):
               return self.items.full()
        
-def Act (str) :
-    if str == '0' :
+def Act(str):
+    if str == '0':
         return 'Eat'
-    elif str == '1' :
+    elif str == '1':
         return 'Game'
-    elif str == '2' :
+    elif str == '2':
         return 'Learn'
-    elif str == '3' :
+    elif str == '3':
         return 'Movie'
 
-def Locate (str) :
-    if str == '0' :
+def Locate(str):
+    if str == '0':
         return 'Res.'
-    elif str == '1' :
+    elif str == '1':
         return 'ClassR.'
-    elif str == '2' :
+    elif str == '2':
         return 'SuperM.'
-    elif str == '3' :
+    elif str == '3':
         return 'Home'
  
 inp = input("Enter Input : ").split(",")
@@ -86,6 +86,7 @@ myAct = Queue()
 yourAct = Queue()
 
 score = 0
+
 for i in inp:
     l = i.split(' ')
     my = str(l[0]).split(":")
@@ -115,7 +116,7 @@ if score >= 7:
     print("Yes! You're my love! : Score is " + str(score) + '.')
 elif score > 0:
     print("Umm.. It's complicated relationship! : Score is " + str(score) + '.')
-else :
+else:
     print("No! We're just friends. : Score is " + str(score) + '.')
 
        

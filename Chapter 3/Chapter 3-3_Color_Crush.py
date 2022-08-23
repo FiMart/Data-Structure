@@ -29,7 +29,7 @@
 ### Enter Your Code Here ###
 
 class Stack:
-    def __init__(self, list = None) :
+    def __init__(self, list = None):
         if list == None:
             self.items = []
         else:

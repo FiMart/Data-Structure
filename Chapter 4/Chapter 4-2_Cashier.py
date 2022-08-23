@@ -59,7 +59,7 @@ def cashier():
 inp = [*input("Enter people : ")]
 x.items = inp
 
-for a in range(1, len(inp) + 1) :
+for a in range(1, len(inp) + 1):
     if not y.isEmpty() and y.Time() == 3 :
         y.Dequeue()
         y.timeReset()
